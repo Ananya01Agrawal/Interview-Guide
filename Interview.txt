@@ -1,0 +1,33 @@
+What is the difference between an abstract class and an interface in Java?
+📍Explain the difference between a stack and a queue. When would you use one versus the other?
+📍How would you design a system to handle a large number of concurrent requests?
+📍What is your experience with distributed systems and scalability?
+📍What is your experience with object-oriented programming and design patterns?
+📍How do you ensure the reliability of a system?
+📍What are the best practices for writing maintainable and scalable code?
+📍Have you ever had to optimize a slow database query? How did you go about it?
+📍What is your experience with AWS services, and how have you used them in the past?
+📍How do you handle errors and exceptions in your code?
+📍Explain the difference between a process and a thread.
+📍Describe your experience with databases, including SQL and NoSQL databases.
+📍What is the difference between a left join and an inner join in SQL?
+📍How would you optimize a web page's load time?
+📍What is your experience with front-end development? Can you describe a project you've worked on in the past?
+📍What is the difference between a synchronous and asynchronous function? When would you use one versus the other?
+📍Can you describe a time when you had to work with a team to solve a difficult technical problem?
+📍What is your experience with version control systems, such as Git?
+📍What is the difference between a unit test and an integration test?
+📍Can you describe a project you worked on where you had to use algorithms and data structures to solve a problem?
+📍Can you explain the difference between a stack and a heap?
+📍Describe your experience with object-oriented programming and inheritance.
+📍What is the difference between an HTTP GET request and an HTTP POST request?
+📍What is the difference between a linked list and an array? When would you use one versus the other?
+📍Can you explain the concept of polymorphism and how it works in object-oriented programming?
+📍Have you ever worked with AWS Lambda? How did you use it, and what were some of the challenges you encountered?
+📍Can you describe a time when you had to debug a particularly challenging issue in your code?
+📍How do you ensure the security of your code and data?
+📍Have you ever worked with REST APIs? Can you describe a project you worked on that involved building or consuming a REST API?
+📍Can you explain the concept of a closure in JavaScript, and provide an example of when you would use one?
+📍Describe your experience with algorithms and data structures. Can you give an example of a time when you had to implement a particular algorithm?
+📍What is the difference between an abstract class and an interface in C#?
+📍Can you explain the concept of encapsulation and how it works in object-oriented programming?
